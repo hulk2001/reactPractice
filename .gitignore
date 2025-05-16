@@ -1,0 +1,13 @@
+# React 의존성
+/frontend/reactapp/node_modules/
+
+# Spring Boot 빌드 결과
+/backend/target/
+
+# STS/Eclipse 메타파일
+/.settings/
+/.project
+.classpath
+
+# IDE 공통
+*.log
